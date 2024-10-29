@@ -19,27 +19,28 @@ Line 4: An integer specifying the number of processes to be simulated.
 
 Line 5: Start of description of processes. Each process is to be described on a separate line. For algorithms 1 through 7, each process is described using a comma-separated list specifying:
 
-1- String specifying a process name
-2- Arrival Time
-3- Service Time
+1. String specifying a process name
+2. Arrival Time
+3. Service Time
 
 Note: For Aging algorithm (algorithm 8), each process is described using a comma-separated list specifying:
 
-1- String specifying a process name
-2- Arrival Time
-3- Priority
+1. String specifying a process name
+2. Arrival Time
+3. Priority
 
 Processes are assumed to be sorted based on the arrival time. If two processes have the same arrival time, then the one with the lower priority is assumed to arrive first.
 
 
 ## TestCases
+
 ### Testcase 1
 
-![image](https://github.com/user-attachments/assets/1583f05e-7092-4b1a-8281-268bdfa6ef1e)                                  ![image](https://github.com/user-attachments/assets/ee7df2c4-2376-454c-a36c-eb480a81d634)
+![image](https://github.com/user-attachments/assets/1583f05e-7092-4b1a-8281-268bdfa6ef1e)                                    ![image](https://github.com/user-attachments/assets/ee7df2c4-2376-454c-a36c-eb480a81d634)
 
 ### Testcase 2
 
-![image](https://github.com/user-attachments/assets/72f7620a-4a3c-4d9f-85de-17262f3a10d0)                                   ![image](https://github.com/user-attachments/assets/85c181c6-2546-42fe-bd87-04164a965c6a)
+![image](https://github.com/user-attachments/assets/72f7620a-4a3c-4d9f-85de-17262f3a10d0)                                    ![image](https://github.com/user-attachments/assets/85c181c6-2546-42fe-bd87-04164a965c6a)
 
 ### Testcase 3
 
@@ -47,5 +48,5 @@ Processes are assumed to be sorted based on the arrival time. If two processes h
 
 ### Testcase 4
 
-![image](https://github.com/user-attachments/assets/f0c18c4a-3157-4a2d-bcab-73f5797c34bf)                                     ![image](https://github.com/user-attachments/assets/b9bad4f8-5bfe-4cd6-b4eb-92db491992f6)
+![image](https://github.com/user-attachments/assets/f0c18c4a-3157-4a2d-bcab-73f5797c34bf)                                    ![image](https://github.com/user-attachments/assets/b9bad4f8-5bfe-4cd6-b4eb-92db491992f6)
 
