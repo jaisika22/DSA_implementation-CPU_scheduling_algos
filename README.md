@@ -50,4 +50,4 @@ Processes are assumed to be sorted based on the arrival time. If two processes h
 
 ![image](https://github.com/user-attachments/assets/f0c18c4a-3157-4a2d-bcab-73f5797c34bf)                                    ![image](https://github.com/user-attachments/assets/b9bad4f8-5bfe-4cd6-b4eb-92db491992f6)
 
-For more well defined test cases: testcases
+For more well defined test cases: [testcases](https://github.com/jaisika22/DSA_implementation-CPU_scheduling_algos/tree/main/testcases)
